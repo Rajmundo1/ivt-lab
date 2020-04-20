@@ -115,5 +115,4 @@ public class GT4500 implements SpaceShip {
     }
 
 }
-
 //BRANCH-A CHANGES
